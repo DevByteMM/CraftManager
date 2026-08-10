@@ -14,8 +14,9 @@ Features
 Installation & Usage
 
 1. Download the latest release from the Releases section.
-2. Run CraftManager.exe.
-3. Manage your Minecraft Bedrock content effortlessly.
+2. Run CraftManagerSetup.exe
+3. Open CraftManager
+4. Manage your Minecraft Bedrock content effortlessly.
 
 
 Supported Content
