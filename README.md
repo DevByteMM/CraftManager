@@ -5,7 +5,7 @@
 
 ---
 
-## ✨ What's New in v1.4.3
+## ✨ What's New in v1.4.2
 * 🎨 **Fully Redesigned Interface** — A brand-new modern style  
 * 🔵 **Complete Java Edition Support** — Mods, shaders, modpacks, resource packs & worlds  
 
@@ -35,10 +35,12 @@
 
 ## 📥 Installation & Usage
 
-1. **Download** the latest release from the **Releases** section.
-2. **Run** `CraftManagerSetup.exe`.
-3. **Open** CraftManager.
-4. **Manage** your Minecraft content effortlessly ✨
+> ⚠️ **Important:** Please **uninstall any older version** of CraftManager before installing the latest release to avoid conflicts.
+
+1. **Uninstall** any previous version of CraftManager from your PC.
+2. **Download** the latest release (`CraftManagerSetup.exe`) from the **Releases** section.
+3. **Run** `CraftManagerSetup.exe` to install the update.
+4. **Open** CraftManager and enjoy! ✨
 
 ---
 
