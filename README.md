@@ -5,7 +5,7 @@
 
 ---
 
-## ✨ What's New in v1.4.2
+## ✨ What's New in v1.4.3
 * 🎨 **Fully Redesigned Interface** — A brand-new modern style  
 * 🔵 **Complete Java Edition Support** — Mods, shaders, modpacks, resource packs & worlds  
 
