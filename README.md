@@ -5,9 +5,10 @@
 
 ---
 
-## ✨ What's New in v1.4.3
-* 🎨 **Fully Redesigned Interface** — A brand-new modern style  
-* 🔵 **Complete Java Edition Support** — Mods, shaders, modpacks, resource packs & worlds  
+## ✨ What's New in v1.4.4
+* 🖱️ **Smooth Scrolling** — New autoscroll (middle-click glide + edge scroll) everywhere
+* 🧠 **Smarter Installation** — Multi-file install, smart `.mrpack`/`.mrworld` handling
+* 🖼️ **Better Mod Pages** — Full descriptions with images, click-to-zoom gallery & fixed version picker
 
 ---
 
@@ -35,12 +36,12 @@
 
 ## 📥 Installation & Usage
 
-> ⚠️ **Important:** Please **uninstall any older version** of CraftManager before installing the latest release to avoid conflicts.
+1. **Download** the latest release (`CraftManagerSetup.exe`) from the **Releases** section.
+2. **Run** it — CraftManager replaces any older version automatically.
+3. **Open** CraftManager and enjoy! ✨
 
-1. **Uninstall** any previous version of CraftManager from your PC.
-2. **Download** the latest release (`CraftManagerSetup.exe`) from the **Releases** section.
-3. **Run** `CraftManagerSetup.exe` to install the update.
-4. **Open** CraftManager and enjoy! ✨
+> 📌 **Note:** If you have a version **older than v1.4.3**, please uninstall it manually first.  
+> On **v1.4.3 or newer** — no need to uninstall, just run the new installer and you're done. ✅
 
 ---
 
