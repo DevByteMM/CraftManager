@@ -1,0 +1,19 @@
+{
+  "payload": {
+    "version": "1.4.5",
+    "channel": "stable",
+    "released_at": "2026-09-14T23:30:38.708Z",
+    "min_version": "1.4.5",
+    "pack": {
+      "url": "https://github.com/DevByteMM/CraftManager/releases/download/1.4.5/app.asar",
+      "sha256": "feec1d2729ae2607bde98a11ad825e8ffa97eb4ba79021794e590061f605ad17",
+      "size": 8475951
+    },
+    "installer": {
+      "url": "https://github.com/DevByteMM/CraftManager/releases/download/1.4.5/CraftManager_v1.4.5.exe",
+      "name": "CraftManager_v1.4.5.exe"
+    },
+    "notes": ""
+  },
+  "sig": "YPrXzip4nk8oKb7f+ZL+ePj6jvJIi3QLaKXy1Oszk6B7rUHErj/9EqIQWi/Jct+JicB19NBQ3id8H/06UVJYAA=="
+}
