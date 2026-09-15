@@ -3,7 +3,7 @@
     "version": "1.4.6",
     "channel": "stable",
     "released_at": "2026-09-15T15:36:23.511Z",
-    "min_version": "1.4.5",
+    "min_version": "1.4.6",
     "pack": {
       "url": "https://github.com/DevByteMM/CraftManager/releases/download/1.4.6/app.asar",
       "sha256": "06654a8841407f90b774ec9d9489dc3cc93b8331b285d83c5be9a5033f858ec4",
