@@ -5,10 +5,12 @@
 
 ---
 
-## ✨ What's New in v1.4.4
-* 🖱️ **Smooth Scrolling** — New autoscroll (middle-click glide + edge scroll) everywhere
-* 🧠 **Smarter Installation** — Multi-file install, smart `.mrpack`/`.mrworld` handling
-* 🖼️ **Better Mod Pages** — Full descriptions with images, click-to-zoom gallery & fixed version picker
+## ✨ What's New in v1.4.5
+
+* 🧩 **Organized Modpacks** — Every modpack now shows as one row in Installed Content, and deleting it removes all of its files together
+* 📊 **Real Install Progress** — Watch a modpack install file by file (`12 / 45`) instead of a frozen bar
+* ✋ **Cancel Means Cancel** — Cancelling an install removes everything it already wrote, including multi-file Add New Pack batches
+* 🔎 **Smarter Search** — Finds what you're looking for even from the wrong tab or edition, with more results and tolerance for spelling
 
 ---
 
