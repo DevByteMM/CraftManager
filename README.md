@@ -3,14 +3,6 @@
 > **The Ultimate Minecraft Content Manager for Windows**  
 > Manage your addons, mods, shaders, packs & worlds — all in one place. Download anything you want from the built-in Online Mods Hub. ⚡
 
----
-
-## ✨ What's New in v1.4.5
-
-* 🧩 **Organized Modpacks** — Every modpack now shows as one row in Installed Content, and deleting it removes all of its files together
-* 📊 **Real Install Progress** — Watch a modpack install file by file (`12 / 45`) instead of a frozen bar
-* ✋ **Cancel Means Cancel** — Cancelling an install removes everything it already wrote, including multi-file Add New Pack batches
-* 🔎 **Smarter Search** — Finds what you're looking for even from the wrong tab or edition, with more results and tolerance for spelling
 
 ---
 
