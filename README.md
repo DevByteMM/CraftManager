@@ -11,14 +11,50 @@
 * **Smart Filters** — Powerful Java / Bedrock content separation.
 * **Any Version You Want** — Old releases & mirror links included.
 
+
 ---
 
-## 💻 Platforms Comparison & Features
+## 💻 Platforms & Features Overview
 
 | 🖥️ Windows (PC) | 📱 Android (Mobile) |
 | :--- | :--- |
 | **🟢 Bedrock Edition**<br>• **Addon Manager** — Install & manage addons with trusted sources (MCPEDL, CurseForge & 9Minecraft), resource packs & behavior packs in one click.<br>• **Skin Packs** — Full support for custom skin packs.<br>• **World Manager** — Export, backup & manage your worlds safely. | **📱 Mobile Version**<br>• **Addon Manager** — Manage your resource and behavior packs on the go.<br>• **Shop Hub** — Browse and download add-ons, maps, and texture packs directly from your phone.<br>• **Optimized UI** — Designed specifically for smooth mobile navigation. |
-| **🔵 Java Edition**<br>• **Mods** — Install any `.jar` straight into your `.minecraft` folder.<br>• **Shaders & Resource Packs** — One-click installation.<br>• **Version Picker** — Pick any release & mod loader (*Fabric / Forge / NeoForge / Quilt*).<br>• **Modpacks** — Full `.mrpack` support. | *Available via the mobile app build for portable content management.* |
+| **🔵 Java Edition**<br>• **Mods** — Install any `.jar` straight into your `.minecraft` folder.<br>• **Shaders & Resource Packs** — One-click installation.<br>• **Version Picker** — Pick any release & mod loader (*Fabric / Forge / NeoForge / Quilt*).<br>• **Modpacks** — Full `.mrpack` support. | *Portable and lightweight experience built specifically for mobile devices.* |
+
+---
+
+## 🖼️ App Screenshots
+
+### 🖥️ Windows (PC) Showcase
+<p align="center">
+  <img src="images/pc/{10EDF5D5-4D02-4B82-ACFD-4E4022396FE3}.png" width="48%" alt="PC 1">
+  <img src="images/pc/{3C75CE7D-6E73-49BE-9EB1-923F0ED59EF7}.png" width="48%" alt="PC 2">
+</p>
+<p align="center">
+  <img src="images/pc/{3FA75A80-6445-4098-9E2B-AD4B9F46ED2E}.png" width="48%" alt="PC 3">
+  <img src="images/pc/{444F0D1A-117F-43D0-869B-0EB85E0D82E6}.png" width="48%" alt="PC 4">
+</p>
+<p align="center">
+  <img src="images/pc/{7EDA7C4F-AB68-440E-9BAF-125010AB7D23}.png" width="48%" alt="PC 5">
+  <img src="images/pc/{81D2D4E1-AA46-4FC2-A1CB-CACD4E9AF3FC}.png" width="48%" alt="PC 6">
+</p>
+<p align="center">
+  <img src="images/pc/{A7COABB6-EB81-4056-BFC6-838C6426DCC6}.png" width="48%" alt="PC 7">
+  <img src="images/pc/{E421E274-8514-4AE1-A078-9EEE7E3E9B53}.png" width="48%" alt="PC 8">
+</p>
+<p align="center">
+  <img src="images/pc/{FA46F7C0-9688-4227-8605-7E1925C43191}.png" width="48%" alt="PC 9">
+</p>
+
+### 📱 Android (Mobile) Showcase
+<p align="center">
+  <img src="images/andr/Screenshot_20260916_163924_CraftManager.jpg" width="32%" alt="Mobile 1">
+  <img src="images/andr/Screenshot_20260916_163929_CraftManager.jpg" width="32%" alt="Mobile 2">
+  <img src="images/andr/Screenshot_20260916_163955_CraftManager.jpg" width="32%" alt="Mobile 3">
+</p>
+<p align="center">
+  <img src="images/andr/Screenshot_20260916_163959_CraftManager.jpg" width="32%" alt="Mobile 4">
+</p>
 
 ---
 
