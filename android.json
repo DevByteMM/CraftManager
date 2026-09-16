@@ -1,7 +1,14 @@
 {
-  "latest_version": "1.4.7",
-  "version_code": 10407,
-  "apk_url": "https://github.com/DevByteMM/CraftManager/releases/download/1.4.7/CraftManager-Android-v1.4.7.apk",
-  "size": 6388641,
-  "notes": "CraftManager for Android: the library, the store and the mod tools from the PC build, with the game folder handled through Shizuku. The app updates itself from this version on - one tap, or none at all while Shizuku is running."
+  "latest_version": "1.4.8",
+  "version_code": 10408,
+  "apk_url": "https://github.com/DevByteMM/CraftManager/releases/download/1.4.7/CraftManager-Android-v1.4.8.apk",
+  "size": 6419473,
+  "notes": [
+    "The app looks for its own update as it opens and shows what is new before anything else",
+    "The set-up screen now ticks each step by itself and carries on the moment the game folder opens",
+    "It shows the exact row to look for in your phone's own settings list, next to the button that opens it",
+    "Permissions are asked from a bar at the bottom, so nothing locks the screen - and a button that is waiting always comes back",
+    "The app opens and works whether or not Shizuku is running - only adding files waits for it",
+    "A pack that has several builds is one row - open it to see every version and its size"
+  ]
 }
