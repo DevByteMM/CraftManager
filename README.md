@@ -35,15 +35,15 @@
   <img src="images/pc/{444F0D1A-117F-43D0-869B-0EB85E0D82E6}.png" width="48%" alt="PC 4">
 </p>
 <p align="center">
-  <img src="images/pc/{7EDA7C4F-AB68-440E-9BAF-125010AB7D23}.png" width="48%" alt="PC 5">
+  <img src="images/pc/{7EDA7C4F-AB6B-440E-9BAF-125010AB7D23}.png" width="48%" alt="PC 5">
   <img src="images/pc/{81D2D4E1-AA46-4FC2-A1CB-CACD4E9AF3FC}.png" width="48%" alt="PC 6">
 </p>
 <p align="center">
-  <img src="images/pc/{A7COABB6-EB81-4056-BFC6-838C6426DCC6}.png" width="48%" alt="PC 7">
+  <img src="images/pc/{A7C0ABB6-EB81-4056-BFC6-838C6426DCC6}.png" width="48%" alt="PC 7">
   <img src="images/pc/{E421E274-8514-4AE1-A078-9EEE7E3E9B53}.png" width="48%" alt="PC 8">
 </p>
 <p align="center">
-  <img src="images/pc/{FA46F7C0-9688-4227-8605-7E1925C43191}.png" width="48%" alt="PC 9">
+  <img src="images/pc/{FA46F7C0-96B8-4227-8605-7E1925C43191}.png" width="48%" alt="PC 9">
 </p>
 
 ### 📱 Android (Mobile) Showcase
