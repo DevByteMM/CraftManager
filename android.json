@@ -1,14 +1,14 @@
 {
-  "latest_version": "1.4.8",
-  "version_code": 10408,
-  "apk_url": "https://github.com/DevByteMM/CraftManager/releases/download/1.4.7/CraftManager-Android-v1.4.8.apk",
-  "size": 6419473,
+  "latest_version": "1.4.9",
+  "version_code": 10409,
+  "apk_url": "https://github.com/DevByteMM/CraftManager/releases/download/1.4.7/CraftManager-Android-v1.4.9.apk",
+  "size": 6502988,
   "notes": [
-    "The app looks for its own update as it opens and shows what is new before anything else",
-    "The set-up screen now ticks each step by itself and carries on the moment the game folder opens",
-    "It shows the exact row to look for in your phone's own settings list, next to the button that opens it",
-    "Permissions are asked from a bar at the bottom, so nothing locks the screen - and a button that is waiting always comes back",
-    "The app opens and works whether or not Shizuku is running - only adding files waits for it",
+    "The update check works even on a network where the first server will not answer - it no longer says you are up to date while an update is waiting",
+    "A folder that only carries Minecraft's name is no longer called ready - the app says it is empty and keeps the set-up steps in front of you",
+    "The set-up list stays on screen until the game folder is really open; granting a permission no longer makes it disappear",
+    "A phone with no Minecraft is told exactly that, instead of being sent to install Shizuku",
+    "Full access is only shown for a folder that really holds your worlds and packs",
     "A pack that has several builds is one row - open it to see every version and its size"
   ]
 }
