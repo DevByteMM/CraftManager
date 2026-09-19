@@ -1,13 +1,13 @@
 {
   "payload": {
-    "version": "1.4.7",
+    "version": "1.4.8",
     "channel": "stable",
-    "released_at": "2026-09-15T18:08:48.851Z",
+    "released_at": "2026-09-18T23:32:26.138Z",
     "installer": {
-      "url": "https://github.com/DevByteMM/CraftManager/releases/download/1.4.7/CraftManager_v1.4.7.exe",
-      "name": "CraftManager_v1.4.7.exe"
+      "url": "https://github.com/DevByteMM/CraftManager/releases/download/1.4.8/CraftManager_v1.4.8.exe",
+      "name": "CraftManager_v1.4.8.exe"
     },
     "notes": ""
   },
-  "sig": "bhcMO0oZQ4qnn16KS1vuyyRHZI1/anlH6nhpoYU17F4IpXQTHtTd2WUL7xYX9X6Q1T332vhnBgCYvMI+JGeqBg=="
+  "sig": "pko9/4gUJyh6O36TtZQFGnIR1iaeeJjaKygL9KNmDF4WB14nFdQSOaPiJscqR1lBpwq/WVzYV34Ze4BYf3xSBA=="
 }
