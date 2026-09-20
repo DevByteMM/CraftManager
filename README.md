@@ -27,23 +27,23 @@
 
 ### 🖥️ Windows (PC) Showcase
 <p align="center">
-  <img src="images/pc/{10EDF5D5-4D02-4B82-ACFD-4E4022396FE3}.png" width="48%" alt="PC 1">
-  <img src="images/pc/{3C75CE7D-6E73-49BE-9EB1-923F0ED59EF7}.png" width="48%" alt="PC 2">
+  <img src="images/pc/{06BBCC7B-65A4-4BA1-948A-F79CD610C37D}.png" width="48%" alt="PC 1">
+  <img src="images/pc/{3D96100B-E23A-49CE-97BB-7515F301EFCD}.png" width="48%" alt="PC 2">
 </p>
 <p align="center">
-  <img src="images/pc/{3FA75A80-6445-4098-9E2B-AD4B9F46ED2E}.png" width="48%" alt="PC 3">
-  <img src="images/pc/{444F0D1A-117F-43D0-869B-0EB85E0D82E6}.png" width="48%" alt="PC 4">
+  <img src="images/pc/{954F04FA-9B24-4268-BE62-DD902C6D7007}.png" width="48%" alt="PC 3">
+  <img src="images/pc/{95B6F00F-2CD2-4CF1-A0F6-0E0AAB569D89}.png" width="48%" alt="PC 4">
 </p>
 <p align="center">
-  <img src="images/pc/{7EDA7C4F-AB6B-440E-9BAF-125010AB7D23}.png" width="48%" alt="PC 5">
-  <img src="images/pc/{81D2D4E1-AA46-4FC2-A1CB-CACD4E9AF3FC}.png" width="48%" alt="PC 6">
+  <img src="images/pc/{A1C7CC36-9223-47C6-B4CF-AADDAD6A237D}.png" width="48%" alt="PC 5">
+  <img src="images/pc/{A385A8E4-2976-4DAC-B3E4-6A9E043658CB}.png" width="48%" alt="PC 6">
 </p>
 <p align="center">
-  <img src="images/pc/{A7C0ABB6-EB81-4056-BFC6-838C6426DCC6}.png" width="48%" alt="PC 7">
-  <img src="images/pc/{E421E274-8514-4AE1-A078-9EEE7E3E9B53}.png" width="48%" alt="PC 8">
+  <img src="images/pc/{AF8511DA-A86E-43E8-9D2F-4E18E1D4020F}.png" width="48%" alt="PC 7">
+  <img src="images/pc/{C4A64487-A6F4-481C-B870-4C299E5065D8}.png" width="48%" alt="PC 8">
 </p>
 <p align="center">
-  <img src="images/pc/{FA46F7C0-96B8-4227-8605-7E1925C43191}.png" width="48%" alt="PC 9">
+  <img src="images/pc/{C60CBB9C-B2D5-411C-A84B-B1517956B4F4}.png" width="48%" alt="PC 9">
 </p>
 
 ### 📱 Android (Mobile) Showcase
