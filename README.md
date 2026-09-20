@@ -8,7 +8,6 @@
 ### 🌐 Online Mods Hub
 * **Search Everything** — Mods, shaders, maps, packs & more.
 * **Trusted Sources** — CurseForge, Modrinth, MCPEDL & 9Minecraft.
-* **Smart Filters** — Powerful Java / Bedrock content separation.
 * **Any Version You Want** — Old releases & mirror links included.
 
 
@@ -25,7 +24,7 @@
 
 ## 🖼️ App Screenshots
 
-### 🖥️ Windows (PC) Showcase
+### 🖥️ Windows (PC) 
 <p align="center">
   <img src="images/pc/{06BBCC7B-65A4-4BA1-948A-F79CD610C37D}.png" width="48%" alt="PC 1">
   <img src="images/pc/{3D96100B-E23A-49CE-97BB-7515F301EFCD}.png" width="48%" alt="PC 2">
@@ -46,7 +45,7 @@
   <img src="images/pc/{C60CBB9C-B2D5-411C-A84B-B1517956B4F4}.png" width="48%" alt="PC 9">
 </p>
 
-### 📱 Android (Mobile) Showcase
+### 📱 Android (Mobile)
 <p align="center">
   <img src="images/andr/Screenshot_20260916_163924_CraftManager.jpg" width="32%" alt="Mobile 1">
   <img src="images/andr/Screenshot_20260916_163929_CraftManager.jpg" width="32%" alt="Mobile 2">
