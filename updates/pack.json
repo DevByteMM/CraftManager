@@ -1,19 +1,19 @@
 {
   "payload": {
-    "version": "1.4.8",
+    "version": "1.4.9",
     "channel": "stable",
-    "released_at": "2026-09-18T23:32:26.138Z",
+    "released_at": "2026-09-21T17:50:37.349Z",
     "min_version": "1.4.6",
     "pack": {
-      "url": "https://github.com/DevByteMM/CraftManager/releases/download/1.4.8/app.asar",
-      "sha256": "463ea2383a63e266af6d2c3057afb5b7e2abf2d177101c83c2c62fd6192c015b",
-      "size": 8858213
+      "url": "https://github.com/DevByteMM/CraftManager/releases/download/1.4.9/app.asar",
+      "sha256": "03f894abc8a9d5c88ec5d8813a756e873b4a7247096ac79264e63759fd4e7d99",
+      "size": 8908837
     },
     "installer": {
-      "url": "https://github.com/DevByteMM/CraftManager/releases/download/1.4.8/CraftManager_v1.4.8.exe",
-      "name": "CraftManager_v1.4.8.exe"
+      "url": "https://github.com/DevByteMM/CraftManager/releases/download/1.4.9/CraftManager_v1.4.9.exe",
+      "name": "CraftManager_v1.4.9.exe"
     },
     "notes": ""
   },
-  "sig": "i1jHOcr5z49hkIQhJsuEQpouy8f94qWH0mg0ZQ6eahrp9tAK7d4IIT7W4IJiLb8sGgSXK97pknL6y/vSbwDEDg=="
+  "sig": "6p5fBcowRit4R5/8Md9NDKKwRicgQKv0TyWwKcMFH9xYUisqm3iUdnrpsudlk+GryXA+Aqp9+xcdXzSEdHvMDg=="
 }
